@@ -1,7 +1,6 @@
-
+scipy
 pandas
 numpy
-
 yfinance
 cufflinks
 matplotlib
