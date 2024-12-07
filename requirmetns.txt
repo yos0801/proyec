@@ -1,0 +1,7 @@
+curses 
+pandas
+numpy
+scipy
+yfinance
+cufflinks
+matplotlib
